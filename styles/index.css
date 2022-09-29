@@ -1,5 +1,12 @@
+:root{
+    --Cor_principal: rgb(255, 255, 255);
+}
+
+
+
+
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: var(--Cor_principal);
     margin-top:0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -47,8 +54,16 @@ li{
     margin: 20px;
 }
 
-.section{
+#Login{
 
+    background-color: #7D5681;
+    color: white;
+    padding: 10px 0;
+    border-radius: 6px;
+}
+
+
+.section{
 position: absolute;
 left: 120px;
 top: 208px;
