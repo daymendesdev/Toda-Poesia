@@ -1,20 +1,20 @@
 # Toda-Poesia
+Projeto criado para artistas, pessoas que amam escrever e compartilhar seu trabalho com outras pessoas.
 
 ## Desenvolvedores
 
 - [Dayanne Mendes](https://github.com/daymendesdev)
 
-## Documentação de cores
+## Designer UX UI
 
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+-
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de daymendesdev@gmail.com
+
 
