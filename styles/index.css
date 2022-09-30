@@ -12,13 +12,12 @@ height: 80px;
 left: 0px;
 top: 0px;
 background: #FFFFFF;
-box-shadow: 0px 4px 46px;
-color: rgb(34, 31, 31);
+box-shadow: 0px 1px 15px;
+color: rgb(209, 196, 196);
 display: inline-block;
 }
 
 .img-header{
-
     position: absolute;
     left: 50px;
     top: 25px;
@@ -34,7 +33,6 @@ color:#7D5681;
 }
 
 ul{
-
     position: absolute;
     right: 50px;
     top: -10px;
@@ -47,8 +45,14 @@ li{
     margin: 20px;
 }
 
-.section{
+.login{
+    background-color: #725681;
+    padding: 10px 50px 10px 50px;
+    color: white;
+    border-radius: 20px;
+}
 
+.section{
 position: absolute;
 left: 120px;
 top: 208px;
@@ -63,13 +67,10 @@ color: #7D5681;
 }
 
 .section p{
-    
     font-size: 37px;
-
 }
 
 .girl-reading{
-
     position: absolute;
     width: 512px;
     height: 512px;
