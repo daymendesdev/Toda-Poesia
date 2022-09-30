@@ -1,5 +1,10 @@
+:root{
+    --Cor_principal: rgb(255, 255, 255);
+}
+
+
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: var(--Cor_principal);
     margin-top:0px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -49,8 +54,9 @@ li{
     background-color: #725681;
     padding: 10px 50px 10px 50px;
     color: white;
-    border-radius: 20px;
+    border-radius: 10px;
 }
+
 
 .section{
 position: absolute;
@@ -87,8 +93,14 @@ input{
     box-shadow:-1px 0px 0px;
     border-radius:20px 20px 20px 20px;
     width:154px;
-    padding:20px 40px;
+    padding:20px 20px;
     cursor:pointer;
     }
     
+
+    /***  teste de link 
+    a.login:hover{
+        text-decoration:overline;
+    } ***/
+
     
