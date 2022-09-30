@@ -7,7 +7,7 @@ Projeto criado para artistas, pessoas que amam escrever e compartilhar seu traba
 
 ## Designer UX UI
 
--
+-[Antônio](https://euantonio.com/)
 
 ## 🛠 Habilidades
 Javascript, HTML, CSS...
