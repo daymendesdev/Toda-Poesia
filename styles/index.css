@@ -57,6 +57,9 @@ li{
     border-radius: 10px;
 }
 
+a.login:hover{
+    background-color: #bb9dcc;
+}
 
 .section{
 position: absolute;
@@ -97,10 +100,5 @@ input{
     cursor:pointer;
     }
     
-
-    /***  teste de link 
-    a.login:hover{
-        text-decoration:overline;
-    } ***/
 
     
