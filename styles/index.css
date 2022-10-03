@@ -57,8 +57,10 @@ li{
     border-radius: 10px;
 }
 
+
 a.login:hover{
     background-color: #7920ad;
+    color: black;
 }
 
 .section{
@@ -111,5 +113,18 @@ a.botao  p:hover{
     cursor:pointer;
 }
 
+.principal header h3{
+margin-top: 60px;
+font-size: 30px;
+}
 
-   
+.principal header p{
+    color: black;
+    font-size: 23px;
+    margin-top: -40px;
+}
+
+a.ver-todos{
+    text-decoration: none;
+}
+
