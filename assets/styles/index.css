@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    box-sizing: ;
+    box-sizing: border-box;
 }
 
 .cabecalho{
@@ -9,6 +9,8 @@ body{
     height: 10vh;
     background-color: rgb(250, 221, 248);
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .cabecalho h1{
@@ -18,8 +20,13 @@ body{
 ul li{
     list-style: none;
     display: inline-block;
+    color: rgb(255, 13, 215);
+    font-weight: 500;
+    padding: 1em;
 }
 
-ul li{
-    color: rgb(0, 0, 0);
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
