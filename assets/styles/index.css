@@ -6,8 +6,8 @@ body{
 
 .cabecalho{
     width: 100vw;
-    height: 10vh;
-    background-color: rgb(250, 221, 248);
+    height: 12vh;
+    background-color: rgb(252, 245, 251);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -20,13 +20,37 @@ body{
 ul li{
     list-style: none;
     display: inline-block;
-    color: rgb(255, 13, 215);
     font-weight: 500;
     padding: 1em;
+}
+
+a li{
+    color: rgb(255, 13, 215);
+}
+
+a li:hover{
+    color: pink;
+}
+
+a li:active{
+    color: rgb(255, 159, 255);
+}
+
+a li:visited{
+    color: blueviolet;
 }
 
 .section{
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.comecar{
+    background-color: rgb(255, 13, 215);
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    border: none;
+    color: white;
+    font-weight: 500;
 }
